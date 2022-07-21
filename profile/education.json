@@ -1,0 +1,22 @@
+{
+  "education": [
+    {
+      "title": "July 2022 - present",
+      "cardTitle": "Int. M.Tech, Mathematics and Computing",
+      "cardSubtitle": "IIT(ISM), Dhanbad",
+      "cardDetailedText": "CGPA - 8.16"
+    },
+    {
+      "title": "Apr 2017 - Mar 2018",
+      "cardTitle": "12th",
+      "cardSubtitle": "RKVM, Gwalior",
+      "cardDetailedText": "Marks - 93.4%"
+    },
+    {
+      "title": "Apr 2015 - Mar 2016",
+      "cardTitle": "10th",
+      "cardSubtitle": "Vidya Bhavan Public School, Gwalior",
+      "cardDetailedText": "CGPA - 10.0"
+    }
+  ]
+}

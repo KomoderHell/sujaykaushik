@@ -1,0 +1,28 @@
+{
+  "experiences": [
+    {
+      "title": "Project Intern",
+      "subtitle": "Oracle FSGBU",
+      "workType": "Internship",
+      "workDescription": [
+        "Responsible for development of POC for New Gen Rule Palette.",
+        "Built a full-stack end to end project.",
+        "Designed UI with Oracle-JET and two microservices using Helidon MP.",
+        "Integrated the UI to microservice and microservice to microservice."
+      ],
+      "dateText": "05/2022 – 07/2022"
+    },
+    {
+      "title": "Android Developer",
+      "subtitle": "Socort Siblings",
+      "workType": "Internship",
+      "workDescription": [
+        "Responsible for complete development of android application for the E-commerce startup.",
+        "Responsible for building complete front-end UI for the client side application.",
+        "Integrated the android application with the server.",
+        "Integrated the payment gateway using Razorpay for the application."
+      ],
+      "dateText": "03/2020 – 04/2020"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+  "skills": [
+    {
+      "title": "Languages",
+      "items": [
+        {
+          "icon": "images/skills/java.png",
+          "title": "Java"
+        },
+        {
+          "icon": "images/skills/js.png",
+          "title": "JavaScript"
+        },
+        {
+          "icon": "images/skills/typescript.png",
+          "title": "TypeScript"
+        },
+        {
+          "icon": "images/skills/python.png",
+          "title": "Python"
+        },
+        {
+          "icon": "images/skills/kotlin.jpeg",
+          "title": "Kotlin"
+        },
+        {
+          "icon": "images/skills/html.png",
+          "title": "HTML"
+        },
+        {
+          "icon": "images/skills/css.png",
+          "title": "css"
+        },
+        {
+          "icon": "images/skills/c.png",
+          "title": "c"
+        },
+        {
+          "icon": "images/skills/c-plus-plus.svg",
+          "title": "cpp"
+        },
+        {
+          "icon": "images/skills/solidity.svg",
+          "title": "solidity"
+        },
+        {
+          "icon": "images/skills/sql.png",
+          "title": "SQL"
+        }
+      ]
+    },
+    {
+      "title": "Frameworks & Technologies",
+      "items": [
+        {
+          "icon": "images/skills/android_new.png",
+          "title": "Android"
+        },
+        {
+          "icon": "images/skills/react.png",
+          "title": "React"
+        },
+        {
+          "icon": "images/skills/nodejs.png",
+          "title": "Nodejs"
+        },
+        {
+          "icon": "images/skills/ethereum.png",
+          "title": "Ethereum"
+        },
+        {
+          "icon": "images/skills/metamask.png",
+          "title": "Metamask"
+        },
+        {
+          "icon": "images/skills/oracle_jet.png",
+          "title": "Oracle-JET"
+        },
+        {
+          "icon": "images/skills/oracle_jet.png",
+          "title": "Oracle DB"
+        },
+        {
+          "icon": "images/skills/helidon.jpg",
+          "title": "Helidon"
+        },
+        {
+          "icon": "images/skills/jax_rs.png",
+          "title": "JAX-RS"
+        },
+        {
+          "icon": "images/skills/firebase.png",
+          "title": "Firebase"
+        }
+      ]
+    },
+    {
+      "title": "Tools & Platforms",
+      "items": [
+        {
+          "icon": "images/skills/android-studio.png",
+          "title": "Android Studio"
+        },
+        {
+          "icon": "images/skills/git.png",
+          "title": "Git"
+        },
+        {
+          "icon": "images/skills/github.png",
+          "title": "GitHub"
+        },
+        {
+          "icon": "images/skills/intellij_idea.png",
+          "title": "IntelliJ IDEA"
+        },
+        {
+          "icon": "images/skills/vscode.png",
+          "title": "VS Code"
+        },
+        {
+          "icon": "images/skills/cpeditor.png",
+          "title": "CP Editor"
+        },
+        {
+          "icon": "images/skills/eclipse.png",
+          "title": "Eclipse"
+        },
+        {
+          "icon": "images/skills/sqldev.png",
+          "title": "SQL Developer"
+        },
+        {
+          "icon": "images/skills/docker.png",
+          "title": "Docker"
+        }
+      ]
+    }
+  ]
+}
