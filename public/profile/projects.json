@@ -1,0 +1,65 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/dapp_poets_society.png",
+      "title": "Dapp Poet's Society",
+      "bodyText": " - A decentralized Social network where users to share poems.\n - Built a full-stack Web 3.0 project from scratch.\n - Developed and deployed on Rinkeby testnet.",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://komoderhell.github.io/dapp-poets-society-front-end/"
+        },
+        {
+          "text": "GitHub-Brownie",
+          "href": "https://github.com/KomoderHell/DappPoetsSociety"
+        },
+        {
+          "text": "GitHub-Front-end",
+          "href": "https://github.com/KomoderHell/dapp-poets-society-front-end"
+        }
+      ],
+      "tags": [
+        "Solidity",
+        "Python",
+        "Metamask",
+        "Ethereum",
+        "Brownie",
+        "Web3.0",
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "image": "images/projects/concetto.png",
+      "title": "Concetto'19",
+      "bodyText": " - Web and Android-based ML application for predicting the threat of chronic illness of Heart & Liver.\n - Provides quick results, with an accuracy of over 90%, based on the information provided by the user.",
+      "links": [
+        {
+          "text": "PlayStore",
+          "href": "https://play.google.com/store/apps/details?id=com.rishabh.concetto2019"
+        },
+        {
+          "text": "GitHub",
+          "href": "https://github.com/rishabh-997/Concetto2019"
+        }
+      ],
+      "tags": ["Java", "XML", "Android Studio", "Firebase", "FCM"]
+    },
+    {
+      "image": "images/projects/predict_med.jpeg",
+      "title": "PredictMed",
+      "bodyText": " - Official Android application of Concetto, tech fest IIT (ISM) Dhanbad.\n - The backend was designed in Firebase. FCM was used for sending notifications.",
+      "links": [
+        {
+          "text": "Project",
+          "href": "https://devpost.com/software/predictmed"
+        },
+        {
+          "text": "GitHub",
+          "href": "https://github.com/KomoderHell/PredictMed"
+        }
+      ],
+      "tags": ["Java", "XML", "Android Studio", "Retrofit2"]
+    }
+  ]
+}
